@@ -181,14 +181,14 @@ body {
     "card-3 card-3 card-4";
 }
 .card-1 {
-  background-image: url(/img/kobu-agency-7okkFhxrxNw-unsplash.jpg);
+  background-image: url(img/kobu-agency-7okkFhxrxNw-unsplash.jpg);
   height: 350px;
   background-size: cover;
   grid-area: card-1;
 }
 
 .card-2 {
-  background-image: url(/img//lauren-mancke-aOC7TSLb1o8-unsplash.jpg);
+  background-image: url(img//lauren-mancke-aOC7TSLb1o8-unsplash.jpg);
 
   height: 350px;
   background-size: cover;
@@ -196,14 +196,14 @@ body {
 }
 
 .card-3 {
-  background-image: url(/img//nathan-anderson-KHSPGJ3zP0M-unsplash.jpg);
+  background-image: url(img//nathan-anderson-KHSPGJ3zP0M-unsplash.jpg);
   height: 350px;
   background-size: cover;
   grid-area: card-3;
 }
 
 .card-4 {
-  background-image: url(/img/niclas-illg-wzVQp_NRIHg-unsplash.jpg);
+  background-image: url(img/niclas-illg-wzVQp_NRIHg-unsplash.jpg);
   height: 350px;
   background-size: cover;
   grid-area: card-4;
